@@ -1,3 +1,5 @@
+// 삼성 아카데미 문제 2027 홀수만 더하기
+
 import java.util.Scanner;
 import java.io.FileInputStream;
  
